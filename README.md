@@ -4,11 +4,9 @@ Learning Python through pickle references.
 Getting Started:
 
 Mac/Linux:
-Vim (or other IDE/text editor of your choosing)
-Python 3.8
-Terminal (for mac I choose iTerm running zsh)
+Vim (or other IDE/text editor of your choosing), Python 3.8, Terminal (for mac I choose iTerm running zsh), Git
 
-To download vim and Python (if not installed already in your distro), use your respective package manager. Vim may seem intimidating at first but once you get plugins you like (I use Vundle to manage them) and your .vimrc set up, it is a very powerful and useful tool. My personal .vimrc can be found under my vimrc repository on my GitHub.
+To download Vim, Python, and Git (if not installed already in your distro), use your respective package manager. Vim may seem intimidating at first but once you get plugins you like (I use Vundle to manage them) and your .vimrc set up, it is a very powerful and useful tool. My personal .vimrc can be found under my vimrc repository on my GitHub.
 
 Steps:
 1) Create a GitHub. (https://github.com)
@@ -20,10 +18,7 @@ Steps:
 5) Run "git clone https://github.com/<YOUR_GIT_USERNAME>/PicklePy.git". This will copy this repository.
 
 Windows:
-Atom (https://Atom.io)
-Python 3.8 (https://python.org)
-git (https://gitforwindows.org)
-Microsoft Terminal (optional but nice to have) (Microsoft Store)
+Atom (https://Atom.io), Python 3.8 (https://python.org), Git (https://gitforwindows.org), Microsoft Terminal (optional but nice to have) (Microsoft Store)
 
 I chose Atom over other IDE and text editors because its one of the easiest to setup for beginners, isn't to bloated with junk, and has git integration which can be really nice for a beginner.
 
