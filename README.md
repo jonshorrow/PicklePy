@@ -44,4 +44,4 @@ Note: When installing git, just use the default settings. (they ask you a lot of
 
 Congrats, You finally have git and atom set up for python in windows. This may seem like a lot but windows is not as developer friendly as Mac/Linux.
 
-Now that you have everything setup, You can now proceed to section_1_The_Beginning
+Now that you have everything setup, You can now proceed to section1
